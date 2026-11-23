@@ -1,7 +1,9 @@
 ### ** Product Overview**
 
 **Product Name**: url-shortner.
+
 **Product Types**: URL Shortening and Link Analytics Platform.
+
 **Product Objective**: url-shortner is a web-based application that converts long URLs into short, shareable links while providing link management, expiration control, and advanced click analytics.
 
 Example:
